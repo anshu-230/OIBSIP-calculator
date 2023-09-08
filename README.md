@@ -1,1 +1,4 @@
 # OIBSIP-calculator
+A calculator is a device or tool used to perform mathematical calculations quickly and accurately. It can be a physical handheld device, a software application on a computer or mobile device, or even a built-in feature on some electronic devices. Calculators are widely used in various fields, including mathematics, science, engineering, finance, and everyday life.
+ Most calculators include basic arithmetic functions, such as addition, subtraction, multiplication, and division. These functions are typically operated using numerical keys.
+ Scientific calculators are designed for more advanced mathematical calculations. They include additional functions like trigonometric functions (sine, cosine, tangent), logarithms, exponents, square roots, and more. These calculators are commonly used by students, scientists, engineers, and professionals in technical fields.
